@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TrelLA",
+    "slug": "TrelLA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TrelLA"
+}
